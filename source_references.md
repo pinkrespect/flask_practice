@@ -20,8 +20,9 @@
 
 [`make_response Function`](https://github.com/pallets/flask/blob/45946028e77ed68d64869f565b688aff0914638c/flask/helpers.py#L147-L340)
 
+[`Business Logic` or `Domain Logic`](https://en.wikipedia.org/wiki/Business_logic)
 
-
+[`Presentation Logic`](https://en.wikipedia.org/wiki/Presentation_logic)
 
 -----------------
 
