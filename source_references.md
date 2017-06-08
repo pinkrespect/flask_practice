@@ -16,13 +16,21 @@
 
 [`Request Hooks`](https://github.com/pallets/flask/blob/45946028e77ed68d64869f565b688aff0914638c/flask/app.py#L1350-L1427)
 
-[`View Function`](https://github.com/pallets/flask/blob/ce813ae5214acc91b1686e09559bb3fdc28a74e9/flask/views.py#L19-L106)
+[`View` Function](https://github.com/pallets/flask/blob/ce813ae5214acc91b1686e09559bb3fdc28a74e9/flask/views.py#L19-L106)
 
 [`make_response Function`](https://github.com/pallets/flask/blob/45946028e77ed68d64869f565b688aff0914638c/flask/helpers.py#L147-L340)
 
 [`Business Logic` or `Domain Logic`](https://en.wikipedia.org/wiki/Business_logic)
 
 [`Presentation Logic`](https://en.wikipedia.org/wiki/Presentation_logic)
+
+[`jinja2` Template Variables](http://jinja.pocoo.org/docs/2.9/templates/#variables)
+
+[`jinja2` Template Control Structures](http://jinja.pocoo.org/docs/2.9/templates/#list-of-control-structures)
+
+[`flask-bootstrap` Base Template Blocks](https://pythonhosted.org/Flask-Bootstrap/basic-usage.html#available-blocks)
+
+
 
 -----------------
 
