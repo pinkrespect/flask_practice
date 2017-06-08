@@ -4,7 +4,7 @@
 
 공부하면서 본 코드들의 Reference를 적는 곳 ㅇㅅㅇ)~
 
-[`app.route()`](https://github.com/pallets/flask/blob/master/flask/app.py#L1121)
+[`app.route()` flask code](https://github.com/pallets/flask/blob/master/flask/app.py#L1121)
 
 [`Application Context`](http://flask.pocoo.org/docs/0.12/appcontext/)
 
@@ -14,11 +14,11 @@
 
 [`WSGI`](http://wsgi.tutorial.codepoint.net/)
 
-[`Request Hooks`](https://github.com/pallets/flask/blob/45946028e77ed68d64869f565b688aff0914638c/flask/app.py#L1350-L1427)
+[`Request Hooks` flask code](https://github.com/pallets/flask/blob/45946028e77ed68d64869f565b688aff0914638c/flask/app.py#L1350-L1427)
 
-[`View` Function](https://github.com/pallets/flask/blob/ce813ae5214acc91b1686e09559bb3fdc28a74e9/flask/views.py#L19-L106)
+[`View` Function flask code](https://github.com/pallets/flask/blob/ce813ae5214acc91b1686e09559bb3fdc28a74e9/flask/views.py#L19-L106)
 
-[`make_response Function`](https://github.com/pallets/flask/blob/45946028e77ed68d64869f565b688aff0914638c/flask/helpers.py#L147-L340)
+[`make_response()` flask code](https://github.com/pallets/flask/blob/45946028e77ed68d64869f565b688aff0914638c/flask/helpers.py#L147-L340)
 
 [`Business Logic` or `Domain Logic`](https://en.wikipedia.org/wiki/Business_logic)
 
@@ -30,10 +30,12 @@
 
 [`flask-bootstrap` Base Template Blocks](https://pythonhosted.org/Flask-Bootstrap/basic-usage.html#available-blocks)
 
+[`errorhandler()` flask code](https://github.com/pallets/flask/blob/master/flask/app.py#L1183-L1216)
 
+[`url_for()` flask code](https://github.com/pallets/flask/blob/45946028e77ed68d64869f565b688aff0914638c/flask/helpers.py#L196-L340)
 
 -----------------
 
 궁금한거
 
-- [ ] Helpers Function
+- [ ] [Helpers Function](https://github.com/pallets/flask/blob/45946028e77ed68d64869f565b688aff0914638c/flask/helpers.py)
