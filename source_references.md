@@ -37,6 +37,21 @@
 [`flask-moment`](https://github.com/miguelgrinberg/flask-moment/)
 
 [python `datetime` library](https://docs.python.org/3/library/datetime.html)
+
+[`CSRF` Cross-Site Request Forgery](https://ko.wikipedia.org/wiki/%EC%82%AC%EC%9D%B4%ED%8A%B8_%EA%B0%84_%EC%9A%94%EC%B2%AD_%EC%9C%84%EC%A1%B0)
+
+[`flask-WTF`](https://flask-wtf.readthedocs.io/en/stable/)
+
+[HTTP request methods](https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods)
+
+[POST/REDIRECT/GET pattern](https://en.wikipedia.org/wiki/Post/Redirect/Get)
+
+[`message flashing` flask patterns](http://flask.pocoo.org/docs/0.12/patterns/flashing/)
+
+[`NoSQL` wikipedia](https://ko.wikipedia.org/wiki/NoSQL)
+
+[Object-Relation Impedance Mismatch](https://en.wikipedia.org/wiki/Object-relational_impedance_mismatch)
+
 -----------------
 
 궁금한거
