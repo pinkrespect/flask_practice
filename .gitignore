@@ -16,3 +16,6 @@ __pycache__/
 
 # SECRET_KEY
 secret.py
+
+# Database
+*.sqlite
