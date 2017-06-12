@@ -56,6 +56,16 @@
 
 [Database Transaction](https://ko.wikipedia.org/wiki/%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4_%ED%8A%B8%EB%9E%9C%EC%9E%AD%EC%85%98)
 
+[SQLAlchemy query filter](http://docs.sqlalchemy.org/en/latest/orm/query.html)
+
+[Data Migrate](https://en.wikipedia.org/wiki/Data_migration)
+
+[Flask-Migrate](https://flask-migrate.readthedocs.io/en/latest/)
+
+[Flask-Mail](https://pythonhosted.org/Flask-Mail/)
+
+[Simple Mail Transfer Protocol](https://en.wikipedia.org/wiki/Simple_Mail_Transfer_Protocol)
+
 -----------------
 
 궁금한거
