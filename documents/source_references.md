@@ -66,6 +66,12 @@
 
 [Simple Mail Transfer Protocol](https://en.wikipedia.org/wiki/Simple_Mail_Transfer_Protocol)
 
+[Flask Application Factory](http://flask.pocoo.org/docs/0.12/patterns/appfactories/)
+
+[Flask Blueprint](http://flask.pocoo.org/docs/0.12/blueprints/)
+
+[Python unittest](https://docs.python.org/3/library/unittest.html)
+
 -----------------
 
 궁금한거
