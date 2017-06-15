@@ -72,6 +72,8 @@
 
 [Python unittest](https://docs.python.org/3/library/unittest.html)
 
+[Bit Manipulation](https://wiki.python.org/moin/BitManipulation)
+
 -----------------
 
 궁금한거
